@@ -1,0 +1,22 @@
+^XA
+
+^FX Top barcode for Container ID
+^FO60,76,2 ^BY3,2.5,164 ^BC N,164,N,N,N,A ^FD ESDXX92310051 ^FS
+^FO292,272,2 ^A0,18 ^FD SHUTTLE ESDXX92310051 ^FS
+^FX Shipping Lane
+^FO344,346,2 ^A0,20 ^FD DXX9->DMX1^FS
+^FX Destination and service
+^FO142,456,2 ^A0,60 ^FD DMX1 - EASY SHIP ^FS
+
+^FX CPT and date information
+^FO50,608^A0,36 ^FD CPT ^FS
+^FO386,608 ^A0,36 ^FD 10/05/2023 20:00 CST ^FS
+^FO50,736 ^A0,28 ^FD Creation Time ^FS
+^FO386,736 ^A0,28 ^FD 05/10/2023 17:00 CST ^FS
+^FO50,828 ^A0,28 ^FD Close Time ^FS
+^FO50,920 ^A0,28 ^FD Container number ^FS
+^FO386,920 ^A0,28 ^FD 1 ^FS
+
+^FX Stacking filter for destination node
+^FO560,800 ^BQN,2,4,Q,0 ^FDQA 92c4ca8d-c65e-5a95-6b72-5861fe616c85 ^FS
+^XZ
